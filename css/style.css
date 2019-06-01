@@ -1,0 +1,13 @@
+
+.sponsors {
+  margin-left: -10%;
+  display: inline-block;
+  margin: 10px;
+}
+
+.sponsors img {
+  transition: .2s;
+  -webkit-transition: .2s;
+  -moz-transition: .2s;
+  width: 300px;
+}
