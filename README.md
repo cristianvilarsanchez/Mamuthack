@@ -7,9 +7,9 @@ Pagina de inicio de la web de MamutHack
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/screenshots/themes/creative.png)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](http://mamuthack.com/img/screnshot/screenshot.png)](http://mamuthack.com/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+**[View Live Preview](http://mamuthack.com/)**
 
 ## Status
 
